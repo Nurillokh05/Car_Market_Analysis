@@ -130,6 +130,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Replace `https://your-image-url.com` with the URL of a relevant image (e.g., a screenshot of your database schema or any other project-related image). Make sure to replace the contributor names and email addresses with the actual contributors of the project. Also, ensure that you have a `LICENSE` file in the repository root directory with the appropriate license details.
-
-Feel free to add more sections or modify the content based on the specific details of your project and any additional information you want to include in the `README.md` file. Once you've created the `README.md` file with this content, commit it to your GitHub repository, and it will be nicely formatted and displayed on your repository page.
